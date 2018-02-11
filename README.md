@@ -1,6 +1,10 @@
 # dockerautosetupwordpress
 bash script for setup automation docker wordpress image
 
+for install & run:
+git clone https://github.com/anthrax3/dockerautosetupwordpress; wait & cd dockerautosetupwordpress; sudo sh setupDockerWordpress.sh;
+
+
 
 automation :
 1. install docker
