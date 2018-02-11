@@ -9,6 +9,6 @@ automation :
 4. setting up mysql image
 5. setting up wordpress image with mysql image
 6. run wordpress image
-7. test with firefox
+7. test with default browser
 
 KIND REGARDS
