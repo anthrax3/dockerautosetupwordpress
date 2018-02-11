@@ -1,7 +1,7 @@
 #!/bin/bash
 # setup docker 
 # get mysql & wordpress images
-# test & run with firefox
+# test & run with default browser
 # for lazy developers :)
 # author Bosz Mand
 # facebook: https://www.facebook.com/yalim.kankaya
