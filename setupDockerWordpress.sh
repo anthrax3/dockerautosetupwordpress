@@ -34,4 +34,4 @@ wait & sudo docker pull wordpress
 wait & sudo docker run -d --name $mysqlname -e MYSQL_ROOT_PASSWORD=$password mysql
 wait & sudo docker run -d --name $sitename --link $mysqlname:mysql -p $port:80 wordpress
 wait & sleep 5s 
-wait & sudo gnome-open "http://localhost:$port" 
+wait gnome-open "http://localhost:$port" 
